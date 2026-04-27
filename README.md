@@ -7,7 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;UI+Designer;Open+Source+Lover" />
 </p>
 
-### 🌐 Sosyal Medya
 <p align="center">
   <a href="https://acarslck.com">Web Site</a> •
   <a href="https://linkedin.com/in/acarslck">LinkedIn</a> •
