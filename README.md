@@ -25,3 +25,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=acarslck&theme=tokyonight"/>
 </td>
 </table>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=acarslck&theme=tokyonight&row=1" />
+</p>
