@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://acarslck.com">Web Site</a> •
   <a href="https://linkedin.com/in/acarslck">LinkedIn</a> •
-  <a href="https://twitter.com/acarslck">Twitter</a>
+  <a href="https://twitter.com/acarslck">X</a>
 </p>
 
 <p align="center">
