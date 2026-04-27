@@ -1,5 +1,5 @@
-### Welcome to my profile 👋
 <p align="center">
+  ### Welcome to my profile 👋
 <img src="https://i.ibb.co/58q7GkX/slider-1-900x280.jpg" />
 </p>
 
