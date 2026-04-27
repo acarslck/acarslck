@@ -10,7 +10,7 @@
 
 
 ### 📊 GitHub İstatistiklerim
-<table align="center">
+<table align="center" border="0">
 <tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=acarslck&show_icons=true&theme=tokyonight"/>
