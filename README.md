@@ -28,3 +28,5 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=acarslck&theme=tokyo-night" />
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=acarslck&color=blue" />
