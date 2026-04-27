@@ -26,5 +26,5 @@
 </td>
 </table>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=acarslck&theme=tokyonight&row=1" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=acarslck&theme=tokyo-night" />
 </p>
