@@ -1,6 +1,6 @@
 ### Welcome to my profile 👋
 <p align="center">
-![alt text](https://i.ibb.co/58q7GkX/slider-1-900x280.jpg)
+<img src="https://i.ibb.co/58q7GkX/slider-1-900x280.jpg" />
 </p>
 
 <p align="center">
