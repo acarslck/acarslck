@@ -8,6 +8,9 @@
 </p>
 
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,git" />
+</p>
 
 ### 📊 GitHub İstatistiklerim
 <table align="center" border="0">
