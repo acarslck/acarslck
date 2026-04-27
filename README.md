@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,git" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,git,mongodb" />
 </p>
 
 ### 📊 GitHub İstatistiklerim
