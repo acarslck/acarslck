@@ -16,15 +16,6 @@
   <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,git,mongodb,mysql" />
 </p>
 
-### 📊 GitHub İstatistiklerim
-<table align="center" border="0">
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=acarslck&show_icons=true&theme=tokyonight"/>
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=acarslck&theme=tokyonight"/>
-</td>
-</table>
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=acarslck&theme=tokyo-night" />
 </p>
